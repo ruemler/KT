@@ -1,0 +1,5 @@
+# Abgabe per E-Mail (Fallback): Zieladresse für mailto-Links
+# Der App-Launcher liest submit_to_email und öffnet E-Mails mit diesem Empfänger.
+# Eine Zeile, Format: submit_to_email=adresse@example.com
+#
+submit_to_email=christian.netzberger@fh-joanneum.at
