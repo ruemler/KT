@@ -1,6 +1,6 @@
 Frage 1: Wie schwierig war es für dich (Skala 1-5; 1 = sehr einfach  5 = sehr schwierig), das Git repo zu installieren?
 
-Es war okay, es gab erst einige Unklarheiten warum nicht gleich die neuste Python-Version verwendet werden kann, aber installieren lief mit der Anleitung sehr gut. 
+3, Es war okay, es gab erst einige Unklarheiten warum nicht gleich die neuste Python-Version verwendet werden kann, aber installieren lief mit der Anleitung sehr gut. 
 
 Frage 2: Welchen Computertyp verwendest du hauptsächlich?
 
@@ -10,4 +10,4 @@ c) Tablet (Android)
 d) iPad (iPadOS)
 e) Sonstiges: _______
 
-Antwort a) / Windows
+Antwort a) Laptop Lenovo/ Windows
