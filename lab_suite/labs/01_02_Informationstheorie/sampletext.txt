@@ -1,60 +1,48 @@
-#!/usr/bin/env python3
-"""
-Matplotlib-Demo: Sinussignal erzeugen und anzeigen.
-
-Dieses Skript zeigt den typischen Ablauf:
-  1. Signalparameter am Anfang definieren (gut lesbar für Änderungen)
-  2. Zeitachse und Sinussignal mit NumPy erzeugen
-  3. Mit Matplotlib in einem Fenster plotten
-
-Ausführen (aus lab_suite):  python labs/01_01_Signale_basics/matplotlib-demo.py
-"""
-from __future__ import annotations
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-# =============================================================================
-# Signalparameter – hier anpassen (für Studierende gut sichtbar)
-# =============================================================================
-
-# Frequenz des Sinus in Hz (wie oft pro Sekunde eine volle Schwingung)
-FREQUENCY_HZ = 2.0
-
-# Amplitude (maximale Auslenkung des Signals, Einheit z. B. Volt oder normiert)
-AMPLITUDE = 1.0
-
-# Abtastrate in Hz (wie viele Werte pro Sekunde wir aufnehmen)
-# Sollte mindestens doppelt so groß wie FREQUENCY_HZ sein (Abtasttheorem)
-SAMPLE_RATE_HZ = 100.0
-
-# Dauer des Signals in Sekunden
-DURATION_S = 2.0
-
-# =============================================================================
-# Zeitachse und Sinussignal erzeugen
-# =============================================================================
-
-# Anzahl der Abtastwerte
-num_samples = int(SAMPLE_RATE_HZ * DURATION_S)
-
-# Zeitpunkte: von 0 bis (DURATION_S - 1/SAMPLE_RATE_HZ), gleichmäßig verteilt
-t = np.linspace(0, DURATION_S, num_samples, endpoint=False)
-
-# Sinussignal:  x(t) = A * sin(2 * pi * f * t)
-# np.sin erwartet Winkel im Bogenmaß; 2*pi*f*t liefert die Phase pro Zeit t
-signal = AMPLITUDE * np.sin(2 * np.pi * FREQUENCY_HZ * t)
-
-# =============================================================================
-# Mit Matplotlib plotten
-# =============================================================================
-
-plt.figure(figsize=(10, 4))
-plt.plot(t, signal, color="C0", linewidth=1.5, label=f"sin, f={FREQUENCY_HZ} Hz")
-plt.xlabel("Zeit (s)")
-plt.ylabel("Amplitude")
-plt.title("Sinussignal (Matplotlib-Demo)")
-plt.grid(True, alpha=0.5)
-plt.legend()
-plt.tight_layout()
-plt.show()
+B ist busy, andre Rapper zu killen
+Das Biest beißt, bös, brutal, es ist besser, du bringst
+Den Bruder nicht zum Brodeln, Dicker, du verreckst bei dem Ding
+Ich baller' böse Bretter, bis die Schädeldecke zerspringt
+Ich snipe Lichtjahre weiter als ihr
+Wie ein Kanal, bring' die Untergrund Scheiße mit mir
+Das hier ist B, Doppel Dick, die Nummer Eins im Revier
+Ich ficke jeden und ich meine jeden Einzelnen hier
+Das isso, B zu dem Izzo ist real
+Der Kapitän mit der Zehn auf dem Trikot und spiel'
+Seh', heutzutage kriegt hier jeder zweite Pico 'n Deal
+Doch ein Vers und ich ficke eure Diskographien
+Zunichte, geh raus, richte es aus
+Dass dieser Chaba hier zurück ist mit dem giftigen Sound
+Er bringt das Feuer und die Szene wird vernichtet des Grauens
+Das ist 187, Junge für euch Stricher und Lauchs, wir ficken jeden
+Wir machen Action, komm wir regeln das Problem
+Rede nicht mit jedem, wir sind gegen das System
+Ihr Stricher, ja wir leben dieses Leben
+Und machen keine leeren Versprechen, Dicker
+Wir zerfetzen, besser geht uns aus dem Weg
+Wir zerlegen euch mal eben mit ei'm Lächeln
+Komm wir machen Action, könn' eure Scheiße nicht mehr hören
+Denn wir sind einfach viel zu weit davon entfernt
+Das Loch in dei'm Bein kost' mich grad mal zwei Euro
+Und ist nicht so, dass ich danach was bereuen tu'
+Im Gegenteil, Mann, ich lad' nochmal neu durch
+Frag, was bei euch los? (bam, bam, bam, bam)
+Damals Grammkurs, Strafhaft, Hamburg
+Heut schrei' ich vor tausend Leuten: "Batschkapp, Hand hoch"
+Und ja, es stimmt, danach krieg' ich noch Ein' geblasen
+Es war ein langer Weg, wie oft musst' ich durch Scheiße latschen?
+Lelleks reden groß, aber sind in Wahrheit winzig
+Da kommt kein Druck Diggah, glaub mir, deine Gerade bringt's nicht
+Dein Rap ist fake, dein Gelaber kindisch
+Und nur weil Azad King ist, verballer' ich Tinte
+Bisschen Studio, bisschen trainieren
+Die Narbe in der Fresse hab' ich nicht vom rasieren
+Und ich piss' mein Urin auf die Diskographie
+Dieser Bitch in dem Spiel, Diggah, 187
+Wir machen Action, komm wir regeln das Problem
+Rede nicht mit jedem, wir sind gegen das System
+Ihr Stricher, ja wir leben dieses Leben
+Und machen keine leeren Versprechen, Dicker
+Wir zerfetzen, besser geht uns aus dem Weg
+Wir zerlegen euch mal eben mit ei'm Lächeln
+Komm wir machen Action, könn' eure Scheiße nicht mehr hören
+Denn wir sind einfach viel zu weit davon entfernt
