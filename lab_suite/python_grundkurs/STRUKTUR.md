@@ -23,6 +23,7 @@ Diese Datei definiert die **didaktische Reihenfolge** der Python-Inhalte und (op
 | 14 | **14_Dateien_und_EinAusgabe** | `open`, Lesen/Schreiben von Dateien, Konsole (`input`/`print`). | Optional für Auswertungen, Logs |
 | 15 | **15_Besondere_Datentypen** | `None`; `bytes`/`bytearray`; `str.encode()`/`decode()` (Zeichenketten ↔ Bytes); ggf. `set`. | Binärdaten, Codierung (01.Codierung, 08.Leitungscodierung) |
 | 16 | **16_Dictionaries** | `dict`, Schlüssel-Wert-Paare; Zugriff, Iteration; typische Anwendungen (Lookup, Zähler, Konfiguration). | Symboltabellen, Codetabellen (01.Codierung, 09.Digitale Modulation) |
+| 17 | **17_Spektralanalyse** | FFT mit NumPy (`np.fft`), Sinus + AWGN, Skalierung des Spektrums, Maximum im Spektrum; spektrale Auflösung, Wertebereich. | 02.Signale und Spektren |
 
 ## Erste inhaltliche Anknüpfung (Beispiel)
 
@@ -33,9 +34,9 @@ Ab **02_Datentypen** und **03_Variablen_und_Operatoren** kann an das KT-Kapitel 
 
 Die genaue Zuordnung „welches Python-Kapitel ↔ welches KT-Unterkapitel“ kann pro Ordner in der jeweiligen `README.md` oder in einer zentralen Tabelle hier ergänzt werden.
 
-## Grundkurs (00–16) – was gehört dazu?
+## Grundkurs (00–17) – was gehört dazu?
 
-Der **Python-Grundkurs** deckt ab: Spracheinstieg, Datentypen, Variablen/Operatoren, Listen, Arrays (NumPy), Plotten (Matplotlib), komplexe Zahlen, Zufallszahlen, Steuerung, Tupel, Funktionen, Module/pip/.venv, Objektorientierung, Dateien I/O, besondere Datentypen (None, bytes, encode/decode, set), Dictionaries. Das reicht für **typische KT-Grundaufgaben**: Informationstheorie (Entropie, Codierung), Signale/Spektren (Arrays, Plots, Rauschen), einfache Modellierung und Auswertung.
+Der **Python-Grundkurs** deckt ab: Spracheinstieg, Datentypen, Variablen/Operatoren, Listen, Arrays (NumPy), Plotten (Matplotlib), komplexe Zahlen, Zufallszahlen, Steuerung, Tupel, Funktionen, Module/pip/.venv, Objektorientierung, Dateien I/O, besondere Datentypen (None, bytes, encode/decode, set), Dictionaries, Spektralanalyse (FFT). Das reicht für **typische KT-Grundaufgaben**: Informationstheorie (Entropie, Codierung), Signale/Spektren (Arrays, Plots, Rauschen, FFT), einfache Modellierung und Auswertung.
 
 **Nicht** im Grundkurs (Kandidaten für **Fortgeschrittenenkurs**): NumPy/SciPy vertieft (FFT, Filter, lineare Algebra), reguläre Ausdrücke (z. B. für Protokolle/Logs), Unit-Tests, Paketierung (pip installierbare Pakete), asynchrone Programmierung, spezielle KT-Bibliotheken (z. B. SDR, Simulationstoolboxen). Siehe auch `docs/KT_Python_Grundkurs_Fortgeschritten.md` und `kt_lecture_scriptum_index.json` für die Zuordnung zu den Vorlesungskapiteln.
 
