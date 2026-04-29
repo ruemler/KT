@@ -1,0 +1,169 @@
+Analyze the file:  C:\Users\rober\Studium\Kommunikationstechnologie\lab_suite\labs\01_02_Informationstheorie\sampletext.txt
+
+-----File Contents:---------------------------------------------------
+B ist busy, andre Rapper zu killen
+
+Das Biest beiÃŸt, bÃ¶s, brutal, es ist besser, du bringst
+
+Den Bruder nicht zum Brodeln, Dicker, du verreckst bei dem Ding
+
+Ich baller' bÃ¶se Bretter, bis die SchÃ¤deldecke zerspringt
+
+Ich snipe Lichtjahre weiter als ihr
+
+Wie ein Kanal, bring' die Untergrund ScheiÃŸe mit mir
+
+Das hier ist B, Doppel Dick, die Nummer Eins im Revier
+
+Ich ficke jeden und ich meine jeden Einzelnen hier
+
+Das isso, B zu dem Izzo ist real
+
+Der KapitÃ¤n mit der Zehn auf dem Trikot und spiel'
+
+Seh', heutzutage kriegt hier jeder zweite Pico 'n Deal
+
+Doch ein Vers und ich ficke eure Diskographien
+
+Zunichte, geh raus, richte es aus
+
+Dass dieser Chaba hier zurÃ¼ck ist mit dem giftigen Sound
+
+Er bringt das Feuer und die Szene wird vernichtet des Grauens
+
+Das ist 187, Junge fÃ¼r euch Stricher und Lauchs, wir ficken jeden
+
+Wir machen Action, komm wir regeln das Problem
+
+Rede nicht mit jedem, wir sind gegen das System
+
+Ihr Stricher, ja wir leben dieses Leben
+
+Und machen keine leeren Versprechen, Dicker
+
+Wir zerfetzen, besser geht uns aus dem Weg
+
+Wir zerlegen euch mal eben mit ei'm LÃ¤cheln
+
+Komm wir machen Action, kÃ¶nn' eure ScheiÃŸe nicht mehr hÃ¶ren
+
+Denn wir sind einfach viel zu weit davon entfernt
+
+Das Loch in dei'm Bein kost' mich grad mal zwei Euro
+
+Und ist nicht so, dass ich danach was bereuen tu'
+
+Im Gegenteil, Mann, ich lad' nochmal neu durch
+
+Frag, was bei euch los? (bam, bam, bam, bam)
+
+Damals Grammkurs, Strafhaft, Hamburg
+
+Heut schrei' ich vor tausend Leuten: "Batschkapp, Hand hoch"
+
+Und ja, es stimmt, danach krieg' ich noch Ein' geblasen
+
+Es war ein langer Weg, wie oft musst' ich durch ScheiÃŸe latschen?
+
+Lelleks reden groÃŸ, aber sind in Wahrheit winzig
+
+Da kommt kein Druck Diggah, glaub mir, deine Gerade bringt's nicht
+
+Dein Rap ist fake, dein Gelaber kindisch
+
+Und nur weil Azad King ist, verballer' ich Tinte
+
+Bisschen Studio, bisschen trainieren
+
+Die Narbe in der Fresse hab' ich nicht vom rasieren
+
+Und ich piss' mein Urin auf die Diskographie
+
+Dieser Bitch in dem Spiel, Diggah, 187
+
+Wir machen Action, komm wir regeln das Problem
+
+Rede nicht mit jedem, wir sind gegen das System
+
+Ihr Stricher, ja wir leben dieses Leben
+
+Und machen keine leeren Versprechen, Dicker
+
+Wir zerfetzen, besser geht uns aus dem Weg
+
+Wir zerlegen euch mal eben mit ei'm LÃ¤cheln
+
+Komm wir machen Action, kÃ¶nn' eure ScheiÃŸe nicht mehr hÃ¶ren
+
+Denn wir sind einfach viel zu weit davon entfernt
+Number of characters: 2376
+Character Dictionary: {'B': 11, ' ': 364, 'i': 181, 's': 101, 't': 87, 'b': 39, 'u': 57, 'y': 3, ',': 50, 'a': 97, 'n': 151, 'd': 76, 'r': 137, 'e': 278, 'R': 5, 'p': 17, 'z': 22, 'k': 31, 'l': 47, '\n': 47, 'D': 28, 'Ã': 18, 'Ÿ': 6, '¶': 6, 'g': 43, 'c': 83, 'h': 95, 'm': 67, 'o': 36, 'v': 10, 'I': 7, "'": 21, 'S': 16, '¤': 4, 'L': 9, 'j': 10, 'w': 23, 'W': 11, 'K': 5, 'U': 8, 'N': 2, 'E': 6, 'f': 17, 'Z': 2, 'T': 2, 'P': 3, 'V': 3, 'C': 1, '¼': 2, 'F': 3, 'G': 5, '1': 2, '8': 2, '7': 2, 'J': 1, 'A': 5, 'M': 1, '?': 2, '(': 1, ')': 1, 'H': 3, ':': 1, '"': 2}
+
+-------Table of characters:----------------
+       | cnt=364    p=0.153   H=2.707 bit/char  H_av=0.415 bit/char
+ e     | cnt=278    p=0.117   H=3.095 bit/char  H_av=0.362 bit/char
+ i     | cnt=181    p=0.076   H=3.714 bit/char  H_av=0.283 bit/char
+ n     | cnt=151    p=0.064   H=3.976 bit/char  H_av=0.253 bit/char
+ r     | cnt=137    p=0.058   H=4.116 bit/char  H_av=0.237 bit/char
+ s     | cnt=101    p=0.043   H=4.556 bit/char  H_av=0.194 bit/char
+ a     | cnt= 97    p=0.041   H=4.614 bit/char  H_av=0.188 bit/char
+ h     | cnt= 95    p=0.040   H=4.644 bit/char  H_av=0.186 bit/char
+ t     | cnt= 87    p=0.037   H=4.771 bit/char  H_av=0.175 bit/char
+ c     | cnt= 83    p=0.035   H=4.839 bit/char  H_av=0.169 bit/char
+ d     | cnt= 76    p=0.032   H=4.966 bit/char  H_av=0.159 bit/char
+ m     | cnt= 67    p=0.028   H=5.148 bit/char  H_av=0.145 bit/char
+ u     | cnt= 57    p=0.024   H=5.381 bit/char  H_av=0.129 bit/char
+ ,     | cnt= 50    p=0.021   H=5.570 bit/char  H_av=0.117 bit/char
+ l     | cnt= 47    p=0.020   H=5.660 bit/char  H_av=0.112 bit/char
+ b'\n' | cnt= 47    p=0.020   H=5.660 bit/char  H_av=0.112 bit/char
+ g     | cnt= 43    p=0.018   H=5.788 bit/char  H_av=0.105 bit/char
+ b     | cnt= 39    p=0.016   H=5.929 bit/char  H_av=0.097 bit/char
+ o     | cnt= 36    p=0.015   H=6.044 bit/char  H_av=0.092 bit/char
+ k     | cnt= 31    p=0.013   H=6.260 bit/char  H_av=0.082 bit/char
+ D     | cnt= 28    p=0.012   H=6.407 bit/char  H_av=0.076 bit/char
+ w     | cnt= 23    p=0.010   H=6.691 bit/char  H_av=0.065 bit/char
+ z     | cnt= 22    p=0.009   H=6.755 bit/char  H_av=0.063 bit/char
+ '     | cnt= 21    p=0.009   H=6.822 bit/char  H_av=0.060 bit/char
+ Ã     | cnt= 18    p=0.008   H=7.044 bit/char  H_av=0.053 bit/char
+ p     | cnt= 17    p=0.007   H=7.127 bit/char  H_av=0.051 bit/char
+ f     | cnt= 17    p=0.007   H=7.127 bit/char  H_av=0.051 bit/char
+ S     | cnt= 16    p=0.007   H=7.214 bit/char  H_av=0.049 bit/char
+ B     | cnt= 11    p=0.005   H=7.755 bit/char  H_av=0.036 bit/char
+ W     | cnt= 11    p=0.005   H=7.755 bit/char  H_av=0.036 bit/char
+ v     | cnt= 10    p=0.004   H=7.892 bit/char  H_av=0.033 bit/char
+ j     | cnt= 10    p=0.004   H=7.892 bit/char  H_av=0.033 bit/char
+ L     | cnt=  9    p=0.004   H=8.044 bit/char  H_av=0.030 bit/char
+ U     | cnt=  8    p=0.003   H=8.214 bit/char  H_av=0.028 bit/char
+ I     | cnt=  7    p=0.003   H=8.407 bit/char  H_av=0.025 bit/char
+ Ÿ     | cnt=  6    p=0.003   H=8.629 bit/char  H_av=0.022 bit/char
+ ¶     | cnt=  6    p=0.003   H=8.629 bit/char  H_av=0.022 bit/char
+ E     | cnt=  6    p=0.003   H=8.629 bit/char  H_av=0.022 bit/char
+ R     | cnt=  5    p=0.002   H=8.892 bit/char  H_av=0.019 bit/char
+ K     | cnt=  5    p=0.002   H=8.892 bit/char  H_av=0.019 bit/char
+ G     | cnt=  5    p=0.002   H=8.892 bit/char  H_av=0.019 bit/char
+ A     | cnt=  5    p=0.002   H=8.892 bit/char  H_av=0.019 bit/char
+ ¤     | cnt=  4    p=0.002   H=9.214 bit/char  H_av=0.016 bit/char
+ y     | cnt=  3    p=0.001   H=9.629 bit/char  H_av=0.012 bit/char
+ P     | cnt=  3    p=0.001   H=9.629 bit/char  H_av=0.012 bit/char
+ V     | cnt=  3    p=0.001   H=9.629 bit/char  H_av=0.012 bit/char
+ F     | cnt=  3    p=0.001   H=9.629 bit/char  H_av=0.012 bit/char
+ H     | cnt=  3    p=0.001   H=9.629 bit/char  H_av=0.012 bit/char
+ N     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ Z     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ T     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ ¼     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ 1     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ 8     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ 7     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ ?     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ "     | cnt=  2    p=0.001   H=10.214 bit/char  H_av=0.009 bit/char
+ C     | cnt=  1    p=0.000   H=11.214 bit/char  H_av=0.005 bit/char
+ J     | cnt=  1    p=0.000   H=11.214 bit/char  H_av=0.005 bit/char
+ M     | cnt=  1    p=0.000   H=11.214 bit/char  H_av=0.005 bit/char
+ (     | cnt=  1    p=0.000   H=11.214 bit/char  H_av=0.005 bit/char
+ )     | cnt=  1    p=0.000   H=11.214 bit/char  H_av=0.005 bit/char
+ :     | cnt=  1    p=0.000   H=11.214 bit/char  H_av=0.005 bit/char
+-------------------------------------------
+
+Average Entropy H = 4.621 bit/char
+Total Entropy of 2376 characters H=10980.22 bit = 1373.00 byte
